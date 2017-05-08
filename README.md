@@ -1,4 +1,5 @@
 Enigma Machine
+
 Authors: Hongwei Xi and Jake Lipson
 
 My solution simulates an enigma machine with a plugboard, three rotors, and a reflector.

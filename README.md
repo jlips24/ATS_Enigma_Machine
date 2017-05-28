@@ -1,4 +1,4 @@
-#Enigma Machine
+Enigma Machine
 
 Authors: Hongwei Xi and Jake Lipson
 
